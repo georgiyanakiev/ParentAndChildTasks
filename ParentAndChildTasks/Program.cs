@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ParentAndChildTasks
 {
-   public static class Program
+   public static class Program2
     {
        public static void Main()
         {
